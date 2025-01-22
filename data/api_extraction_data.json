@@ -1,0 +1,192 @@
+[
+    {
+        "flights": [
+            {
+                "departure_airport": {
+                    "name": "Madurai Airport",
+                    "id": "IXM",
+                    "time": "2025-01-25 10:05"
+                },
+                "arrival_airport": {
+                    "name": "Chennai International Airport",
+                    "id": "MAA",
+                    "time": "2025-01-25 11:25"
+                },
+                "duration": 80,
+                "airplane": "ATR 72",
+                "airline": "IndiGo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+                "travel_class": "Economy",
+                "flight_number": "6E 7196",
+                "legroom": "28 in",
+                "extensions": [
+                    "Below average legroom (28 in)",
+                    "Carbon emissions estimate: 42 kg"
+                ]
+            }
+        ],
+        "total_duration": 80,
+        "carbon_emissions": {
+            "this_flight": 43000,
+            "typical_for_this_route": 44000,
+            "difference_percent": -2
+        },
+        "price": 52,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "booking_token": "WyJDalJJWVZkdVNFRXpNM0p3TUdkQlFuSjRPWGRDUnkwdExTMHRMUzB0TFMxdmVXeG5OVUZCUVVGQlIyVlJOR2xWUzBoYVQydEJFZ1kyUlRjeE9UWWFDZ2l3S0JBQ0dnTlZVMFE0SEhDd0tBPT0iLFtbIklYTSIsIjIwMjUtMDEtMjUiLCJNQUEiLG51bGwsIjZFIiwiNzE5NiJdXV0="
+    },
+    {
+        "flights": [
+            {
+                "departure_airport": {
+                    "name": "Madurai Airport",
+                    "id": "IXM",
+                    "time": "2025-01-25 13:40"
+                },
+                "arrival_airport": {
+                    "name": "Chennai International Airport",
+                    "id": "MAA",
+                    "time": "2025-01-25 15:00"
+                },
+                "duration": 80,
+                "airplane": "ATR 72",
+                "airline": "IndiGo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+                "travel_class": "Economy",
+                "flight_number": "6E 7125",
+                "legroom": "28 in",
+                "extensions": [
+                    "Below average legroom (28 in)",
+                    "Carbon emissions estimate: 42 kg"
+                ]
+            }
+        ],
+        "total_duration": 80,
+        "carbon_emissions": {
+            "this_flight": 43000,
+            "typical_for_this_route": 44000,
+            "difference_percent": -2
+        },
+        "price": 52,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "booking_token": "WyJDalJJWVZkdVNFRXpNM0p3TUdkQlFuSjRPWGRDUnkwdExTMHRMUzB0TFMxdmVXeG5OVUZCUVVGQlIyVlJOR2xWUzBoYVQydEJFZ1kyUlRjeE1qVWFDZ2l3S0JBQ0dnTlZVMFE0SEhDd0tBPT0iLFtbIklYTSIsIjIwMjUtMDEtMjUiLCJNQUEiLG51bGwsIjZFIiwiNzEyNSJdXV0="
+    },
+    {
+        "flights": [
+            {
+                "departure_airport": {
+                    "name": "Madurai Airport",
+                    "id": "IXM",
+                    "time": "2025-01-25 13:50"
+                },
+                "arrival_airport": {
+                    "name": "Chennai International Airport",
+                    "id": "MAA",
+                    "time": "2025-01-25 15:05"
+                },
+                "duration": 75,
+                "airplane": "Airbus A320neo",
+                "airline": "Air India",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+                "travel_class": "Economy",
+                "flight_number": "AI 672",
+                "legroom": "28 in",
+                "extensions": [
+                    "Below average legroom (28 in)",
+                    "In-seat USB outlet",
+                    "Carbon emissions estimate: 52 kg"
+                ]
+            }
+        ],
+        "total_duration": 75,
+        "carbon_emissions": {
+            "this_flight": 52000,
+            "typical_for_this_route": 44000,
+            "difference_percent": 18
+        },
+        "price": 55,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AI.png",
+        "booking_token": "WyJDalJJWVZkdVNFRXpNM0p3TUdkQlFuSjRPWGRDUnkwdExTMHRMUzB0TFMxdmVXeG5OVUZCUVVGQlIyVlJOR2xWUzBoYVQydEJFZ1ZCU1RZM01ob0tDSndxRUFJYUExVlRSRGdjY0p3cSIsW1siSVhNIiwiMjAyNS0wMS0yNSIsIk1BQSIsbnVsbCwiQUkiLCI2NzIiXV1d"
+    },
+    {
+        "flights": [
+            {
+                "departure_airport": {
+                    "name": "Madurai Airport",
+                    "id": "IXM",
+                    "time": "2025-01-25 11:45"
+                },
+                "arrival_airport": {
+                    "name": "Chennai International Airport",
+                    "id": "MAA",
+                    "time": "2025-01-25 13:05"
+                },
+                "duration": 80,
+                "airplane": "ATR 72",
+                "airline": "IndiGo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+                "travel_class": "Economy",
+                "flight_number": "6E 7135",
+                "legroom": "28 in",
+                "extensions": [
+                    "Below average legroom (28 in)",
+                    "Carbon emissions estimate: 42 kg"
+                ]
+            }
+        ],
+        "total_duration": 80,
+        "carbon_emissions": {
+            "this_flight": 43000,
+            "typical_for_this_route": 44000,
+            "difference_percent": -2
+        },
+        "price": 61,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "booking_token": "WyJDalJJWVZkdVNFRXpNM0p3TUdkQlFuSjRPWGRDUnkwdExTMHRMUzB0TFMxdmVXeG5OVUZCUVVGQlIyVlJOR2xWUzBoYVQydEJFZ1kyUlRjeE16VWFDZ2kvTHhBQ0dnTlZVMFE0SEhDL0x3PT0iLFtbIklYTSIsIjIwMjUtMDEtMjUiLCJNQUEiLG51bGwsIjZFIiwiNzEzNSJdXV0="
+    },
+    {
+        "flights": [
+            {
+                "departure_airport": {
+                    "name": "Madurai Airport",
+                    "id": "IXM",
+                    "time": "2025-01-25 15:35"
+                },
+                "arrival_airport": {
+                    "name": "Chennai International Airport",
+                    "id": "MAA",
+                    "time": "2025-01-25 16:55"
+                },
+                "duration": 80,
+                "airplane": "ATR 72",
+                "airline": "IndiGo",
+                "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+                "travel_class": "Economy",
+                "flight_number": "6E 7684",
+                "legroom": "28 in",
+                "extensions": [
+                    "Below average legroom (28 in)",
+                    "Carbon emissions estimate: 42 kg"
+                ]
+            }
+        ],
+        "total_duration": 80,
+        "carbon_emissions": {
+            "this_flight": 43000,
+            "typical_for_this_route": 44000,
+            "difference_percent": -2
+        },
+        "price": 64,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/6E.png",
+        "booking_token": "WyJDalJJWVZkdVNFRXpNM0p3TUdkQlFuSjRPWGRDUnkwdExTMHRMUzB0TFMxdmVXeG5OVUZCUVVGQlIyVlJOR2xWUzBoYVQydEJFZ1kyUlRjMk9EUWFDZ2l5TVJBQ0dnTlZVMFE0SEhDeU1RPT0iLFtbIklYTSIsIjIwMjUtMDEtMjUiLCJNQUEiLG51bGwsIjZFIiwiNzY4NCJdXV0="
+    }
+    
+]
+
+
+    
